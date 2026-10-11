@@ -2,7 +2,7 @@
 
 An AI agent makes the image. The brand parts land on the same pixel every time.
 
-**Built by [Alex Alderman](https://alderman.ai) and presented by Alex as a speaker at the AI Marketing Meetup hosted by [Apify](https://apify.com) on 17 Sep 2026, where it ran live in front of roughly 200 marketers.**
+**Built by [Alex Alderman](https://alderman.ai) for his talk at the AI Marketing Meetup hosted by [Apify](https://apify.com) on 17 Sep 2026, where it ran live in front of roughly 200 marketers.**
 
 > [!NOTE]
 > **Brand disclaimer.** This is an unofficial, non-commercial demo. Apify's name, logo and visual design belong to Apify. The card is a reproduction of apify.com's public actor-card design, rebuilt from scratch as an homage for a community-event teaser. It is not affiliated with Apify, and nothing here implies that Apify supports or endorses it, or that it endorses Apify. No social or custom-coded web assets were **seriously harmed** in the process of making this demo, **just a minor scrape** 🥰
@@ -54,13 +54,13 @@ The longer explanation is [seven one-screen pages](demo-and-more-help/probabilis
 
 I built this for my live demo at the AI marketing meetup Apify hosted on 17 Sep 2026. The card is a speaker teaser for that event, so the event header, the Apify logo and "Join me in PRAGUE" are part of the fixed design. Your card keeps them. Only your words and pictures change. (The brand disclaimer at the top of this page applies to every card.)
 
-## Who made this
+## Who made this, and why it's in your inbox
 
 I'm [Alex Alderman](https://alderman.ai). I worked in Czech marketing agencies, then ran my own boutique B2B tech marketing agency, then pivoted fully to AI implementation for marketing teams. For three years I cut my client load roughly in half to study and build things like this.
 
-You get pitched AI services daily. I'd rather show you something that works on your own laptop. The same split (code for the brand, AI for the words, hard limits in between) carries over to your clients' brands: their components, their fonts, their layouts. For your developer, [forking-for-your-own-brand.md](demo-and-more-help/how-this-was-built/forking-for-your-own-brand.md) lists exactly what gets swapped and what stays.
+You get pitched AI services daily. I'd rather send you something that works on your own laptop. The same split (code for the brand, AI for the words, hard limits in between) carries over to your clients' brands: their components, their fonts, their layouts. For your developer, [forking-for-your-own-brand.md](demo-and-more-help/how-this-was-built/forking-for-your-own-brand.md) lists exactly what gets swapped and what stays.
 
-If it sparks something, take 30 minutes with me: **https://calendar.app.google/biAvGYqEqUtmtsNv9**. Either you take what I show you and experiment with it on your own, or we schedule a follow-up to consider working together. Either outcome works for me.
+If it sparks something, take the 30 minutes from my message: **https://calendar.app.google/biAvGYqEqUtmtsNv9**. Either you take what I show you and experiment with it on your own, or we schedule a follow-up to consider working together. Either outcome works for me. (Replying to my LinkedIn message works too.)
 
 CZ marketing is a small world, and I'm not going to burn my credibility by wasting your time. -Alex
 

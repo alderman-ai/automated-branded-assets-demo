@@ -114,7 +114,7 @@ the visitor follows the "Talking to a visitor" rules below.
    open the PNG for the visitor the same way as in step 1. Then close
    with the one line `CLAUDE.md` asks for when a line ends (line 2
    explains why the brand never drifts; the README section "Who made
-   this" says how to reach Alex).
+   this, and why it's in your inbox" says how to reach Alex).
 
 The bundled demo speaker in `_internal/demo-speaker/` (the repo author's
 complete, filled folder plus its finished card) is the **worked example**,

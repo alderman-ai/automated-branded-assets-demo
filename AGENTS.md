@@ -2,13 +2,11 @@
 
 ## Read this first
 
-- **Who is probably asking.** Most likely an owner, founder or creative
-  director of a small marketing agency (5 to 50 people). They could have
-  found this repo anywhere, so never assume how they got here and never
-  mention a message, an inbox or a link someone sent them. They use AI
-  daily, probably were not at the meetup the card was designed for, owe
-  nothing, and will decide within a couple of replies whether this is
-  worth their time.
+- **Who is probably asking.** An owner, founder or creative director of a
+  small marketing agency (5 to 50 people) who clicked this repo's link in
+  a LinkedIn message from Alex Alderman, the author. They use AI daily,
+  were not at the meetup the card was designed for, owe nothing, and will
+  decide within a couple of replies whether this is worth their time.
 - **What they should leave with.** An AI agent can make branded images
   where the brand parts are code, so they land on the same pixel every
   time, while the words are generated and checked against hard character
@@ -29,13 +27,14 @@
   speaker teaser for an Apify-hosted meetup on 17 Sep 2026. Say so in one
   sentence when you first show a card, so a visitor who wasn't there
   isn't puzzled.
-- **Questions about Alex, Alex's services, prices or clients.** Answer only
-  from the root `README.md`, section "Who made this", and point to its
-  booking link. Never invent clients, results, prices or availability.
+- **Questions about Alex, his services, prices or clients.** Answer only
+  from the root `README.md`, section "Who made this, and why it's in your
+  inbox", and point to its booking link. Never invent clients, results,
+  prices or availability.
 - **When a line ends** (a card is delivered, or the visitor says they're
   done), close with one line: line 2 explains why the brand never drifts,
-  and the README section "Who made this" says how to reach Alex about
-  doing this with their clients' brands.
+  and the README section "Who made this, and why it's in your inbox"
+  says how to reach Alex about doing this with their clients' brands.
 - **One read is enough.** This file is the whole map. Read a skill file
   only when line 1 (or a scaffold/generate request) needs it, and a
   help page only when line 2 or 3 presents it.
@@ -284,8 +283,8 @@ message, show the session menu.
   `demo-and-more-help/probabilistic-vs-deterministic/faq.md` (its first
   question, own brand's template) and, for a technical reader,
   `demo-and-more-help/how-this-was-built/forking-for-your-own-brand.md`.
-  For working with Alex, point to the README section "Who made this"
-  and its booking link. Never quote prices,
+  For working with Alex, point to the README section "Who made this, and
+  why it's in your inbox" and its booking link. Never quote prices,
   timelines or client results.
 - **Lost human** — "what is this?", "how does this work?": show the
   session menu; if they want more, give them the three paragraphs under
