@@ -2,7 +2,7 @@
 
 An AI agent makes the image. The brand parts land on the same pixel every time.
 
-**Built by [Alex Alderman](https://alderman.ai) for his talk at the AI Marketing Meetup hosted by [Apify](https://apify.com) on 17 Sep 2026, where it ran live in front of roughly 200 marketers.**
+**Built by [Alex Alderman](https://alderman.agency) for his talk at the AI Marketing Meetup hosted by [Apify](https://apify.com) on 17 Sep 2026, where it ran live in front of roughly 200 marketers.**
 
 > [!NOTE]
 > **Brand disclaimer.** This is an unofficial, non-commercial demo. Apify's name, logo and visual design belong to Apify. The card is a reproduction of apify.com's public actor-card design, rebuilt from scratch as an homage for a community-event teaser. It is not affiliated with Apify, and nothing here implies that Apify supports or endorses it, or that it endorses Apify. No social or custom-coded web assets were **seriously harmed** in the process of making this demo, **just a minor scrape** 🥰
@@ -60,7 +60,7 @@ I'm [Alex Alderman](https://alderman.ai). I worked in Czech marketing agencies, 
 
 You get pitched AI services daily. I'd rather send you something that works on your own laptop. The same split (code for the brand, AI for the words, hard limits in between) carries over to your clients' brands: their components, their fonts, their layouts. For your developer, [forking-for-your-own-brand.md](demo-and-more-help/how-this-was-built/forking-for-your-own-brand.md) lists exactly what gets swapped and what stays.
 
-If it sparks something, take the 30 minutes from my message: **https://calendar.app.google/biAvGYqEqUtmtsNv9**. Either you take what I show you and experiment with it on your own, or we schedule a follow-up to consider working together. Either outcome works for me. (Replying to my LinkedIn message works too.)
+If it sparks something, take 30 minutes with me: **https://calendar.app.google/biAvGYqEqUtmtsNv9**. Either you take what I show you and experiment with it on your own, or we schedule a follow-up to consider working together. Either outcome works for me. (Replying to my LinkedIn message works too.)
 
 CZ marketing is a small world, and I'm not going to burn my credibility by wasting your time. -Alex
 
@@ -75,7 +75,7 @@ Everything below is reference for the curious. Your agent reads `CLAUDE.md` / `A
 - `_IN_` A few speaker details + IMG files into a fully agentic pipeline
 - `_OUT_` one pixel-perfect, Apify branded LinkedIn image
 - `_OR_` 30 images? 50? Just like at the arcade, you can play until you're out of tokens.
-- `_WITH_` zero Apify brand kit or design assets ... asked for 😇
+- `_WITH_` no brand kit, no Apify design assets 😇 ... asked for.
 
 ### It runs on any laptop with Chrome or Edge
 
